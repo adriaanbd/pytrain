@@ -1,10 +1,13 @@
+
 # PyTrain
 
-Material para el aprendizaje de Python, cuyo contenido esta dividido por temas en cuadernos jupyter notebook.
+Material para el aprendizaje de Python, cuyo contenido esta dividido por temas en cuadernos jupyter notebook. Mas alla de leer el contenido, para ejecutar el codigo en los cuadernos deberá tener [jupyter notebook](https://jupyter.org/install) instalado; ejecutar el codigo en su propio computador / interpretador, o utilizar el servicio de Binder, que contiene todos los archivos jupyter notebook en este repositorio listos para ejecutar desde la web.
 
-## Contenido
+Para acceder a Binder, haga click aqui:
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/adriaanbd/pytrain/master)
+
+## Contenido
 
 
 1. [Introduccion](https://github.com/adriaanbd/pytrain/blob/master/intro.ipynb)
