@@ -88,7 +88,7 @@
 	- [ ] Las listas son mas rapidas y las tuplas mas lentas
 	- [ ] Las listas pueden contener cualquier tipo de datos mientras que las tuplas no
 
-13.  Como abrimos el archivo `hola.txt` en modo de escritura?
+13. Como abrimos el archivo `hola.txt` en modo de escritura?
 	- [ ] `archivo = File("hola.txt", "w")`
 	- [ ] `archivo = openFile("hola.txt", "w")`
 	- [ ] `archivo = open("hola.txt", "w")`
